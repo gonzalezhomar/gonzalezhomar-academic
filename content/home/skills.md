@@ -9,37 +9,37 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Manejo de Software
+title: Habilidades
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
-  icon: microsoft
-  icon_pack: fab
-  name: Microsoft Office
-- description: 80%
+- description: Evaluación de políticas públicas, Regulación y Finanzas Públicas
+  icon: chess-knight
+  icon_pack: fas
+  name: Análisis Económico
+- description: Bases de datos, Web-Scrapping y Mapeo
   icon: python
   icon_pack: fab
-  name: Python
-- description: 80%
+  name: Ciencia de Datos
+- description: Programación, Simulación y Vizualización
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 90%
+  name: Programación
+- description: Econometría, Series de Tiempo y Pronósticos 
   icon: chart-line
   icon_pack: fas
-  name: Stata, Gretl
-- description: 70%
+  name: Modelación Estadística
+- description: Epidemiología, Redes y Deportes
   icon: atom
   icon_pack: fas
-  name: Mathematica
-- description: 70%
-  icon: atom
-  icon_pack: fas
-  name: Matlab
+  name: Modelación Matemática
+- description: Informes Ejecutivos e Infografías
+  icon: microsoft
+  icon_pack: fab
+  name: Excelente redacción
   
 
 
