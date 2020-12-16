@@ -23,7 +23,8 @@ interests:
 - Regulación económica
 - Modelos Electorales
 - Índices de Poder
-- Análisis Georeferenciado
+- Coordinación Fiscal
+- Transparencia y Rendición de Cuentas
 
 # Education to show in About widget
 education:
