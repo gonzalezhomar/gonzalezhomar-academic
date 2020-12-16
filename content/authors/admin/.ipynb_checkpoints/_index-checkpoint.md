@@ -16,15 +16,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Soy un economista, con intereses en ciencia de datos, finanzas públicas, elecciones, deportes y teoría de juegos.
 
-# Interests to show in About widget
+# Interests to show in About widget 
+# Mis intereses incluyen finanzas públicas, regulación económica, modelos electorales, índices de poder y análsis georeferenciado.
 interests:
-- Economía Teórica y Aplicada
 - Finanzas Públicas
-- Ciencia de Datos
-- Modelación Matemática
+- Regulación económica
 - Modelos Electorales
-- Estadística y Econometría
-- Teoría de Juegos
+- Índices de Poder
+- Coordinación Fiscal
+- Transparencia y Rendición de Cuentas
 
 # Education to show in About widget
 education:
