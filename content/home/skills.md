@@ -16,23 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Evaluación de políticas públicas, Regulación y Finanzas Públicas
+- description: Evaluación de políticas públicas, regulación económica y finanzas públicas
   icon: chess-knight
   icon_pack: fas
   name: Análisis Económico
-- description: Bases de datos, Web-Scrapping y Mapeo
+- description: Manejo de bases de datos, web-scrapping y mapeo de información
   icon: python
   icon_pack: fab
   name: Ciencia de Datos
-- description: Programación, Simulación y Vizualización
+- description: Programación y visualización de datos
   icon: r-project
   icon_pack: fab
   name: Programación
-- description: Econometría, Series de Tiempo y Pronósticos 
+- description: Econometría, series de tiempo y elaboración de pronósticos 
   icon: chart-line
   icon_pack: fas
   name: Modelación Estadística
-- description: Epidemiología, Redes y Deportes
+- description: Epidemiología, redes, deportes y elecciones
   icon: atom
   icon_pack: fas
   name: Modelación Matemática
