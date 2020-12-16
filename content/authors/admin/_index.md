@@ -16,15 +16,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Soy un economista, con intereses en ciencia de datos, finanzas públicas, elecciones, deportes y teoría de juegos.
 
-# Interests to show in About widget
+# Interests to show in About widget 
+# Mis intereses incluyen finanzas públicas, regulación económica, modelos electorales, índices de poder y análsis georeferenciado.
 interests:
-- Economía Teórica y Aplicada
 - Finanzas Públicas
-- Ciencia de Datos
-- Modelación Matemática
+- Regulación económica
 - Modelos Electorales
-- Estadística y Econometría
-- Teoría de Juegos
+- Índices de Poder
+- Análisis Georeferenciado
 
 # Education to show in About widget
 education:
@@ -58,6 +57,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/omar-humberto-gonzalez-%C3%A1vila-ab674128/
+- icon: steam
+  icon_pack: fab
+  link: https://steamcommunity.com/profiles/76561198065960816/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -73,7 +75,7 @@ email: "gonzalezhomar@gmail.com"
 highlight_name: false
 ---
 
-Soy Omar Humberto González Ávila, economista de profesión con una amplia experiencia laboral en finanzas públicas en diversos temas: elaboración de leyes de ingresos, análisis del presupuesto de egresos de la federación, y análisis de finanzas públicas estatales y municipales. Además, mis intereses incluyen modelación matemática de elecciones y deportes, programación, teoría de juegos y en general, ciencia de datos.
+Hola, soy Omar, economista de profesión con una amplia experiencia laboral en finanzas públicas: análisis del presupuesto de egresos de la federación, elaboración de leyes de ingresos, conocimiento de legislación fiscal y rendición de cuentas, así como de finanzas públicas estatales y municipales. Además de economía, mis campos de estudio son modelación matemática, estadística, teoría de juegos y ciencia de datos.
 
 En mi tiempo libre soy amante del cine, tv, musica, libros y videojuegos.
 
