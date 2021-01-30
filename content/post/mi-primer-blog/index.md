@@ -55,3 +55,4 @@ Con lo anterior en mente, me puse a buscar qué cosas tenía a la mano. Como tra
 
 Me puse a trabajar sobre esa información porque considero que la tabla se ve muy fea y es poco accesible (no tiene botón de descarga). Así que con ello en mente, con algo de programación en Python, extraje los puntos a un base de datos, y cree el siguiente mapa:
 
+[Mapa](https://github.com/gonzalezhomar/gonzalezhomar-academic/blob/master/content/post/mi-primer-blog/static/PuntosdePago.html)
