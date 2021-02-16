@@ -9,7 +9,7 @@ summary: Mis tips para navegar por internet
 projects: []
 
 # Date published
-date: "2020-02-16T00:00:00Z"
+date: "2020-02-15T00:00:00Z"
 
 # Date updated
 lastmod: "2020-02-16T00:00:00Z"
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: Silver Surfer'
+  caption: 'Image credit: Silver Surfer. Marvel, no me demandes.'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -71,7 +71,7 @@ De manera general, las extensiones son herramientas que incorporan a los navegad
 En el caso de Brave, es compatible con todas las extensiones disponibles para Google Chrome, por lo que se puede hacer la transición de manera muy sencilla. En el caso de Opera GX, encontré que tiene su propia tienda de extensiones (aún no termino de explorarla) y que no es directamente compatible con las extensiones de Chrome. Excepto por,
 
 ### [Install Chrome Extensions](https://addons.opera.com/es/extensions/details/install-chrome-extensions/ )
-Permite utilizar las extensiones de Google Chrome en Opera GX.
+Permite utilizar las extensiones de Google Chrome en Opera GX. Y ya. 
 
 ### [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 Si bien, tanto Brave como Opera GX tienen incorporadas funciones para bloquear anuncios, después de un poco de prueba y error, me parece que esta extensión es mucho más eficiente en bloquear anuncios y no interferir con la navegación. Hay otras alternativas para bloquear anuncios, pero esta me ha gustado bastante.
