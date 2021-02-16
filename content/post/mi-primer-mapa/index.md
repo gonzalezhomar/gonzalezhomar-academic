@@ -13,10 +13,10 @@ tags:
 - Blog
 categories: [Blog]
 # Date published
-date: "2020-01-29T00:00:00Z"
+date: "2020-01-30T00:00:00Z"
 
 # Date updated
-lastmod: "2020-01-29T00:00:00Z"
+lastmod: "2020-01-30T00:00:00Z"
 featured: false
 draft: false
 
@@ -57,7 +57,7 @@ Me puse a trabajar sobre esa información porque considero que la tabla se ve mu
 
 <iframe
     src='./static/PuntosdePago.html'
-    width='90%'
-    height='1000px'
+    width='100%'
+    height='100%'
     style='border:none;'>
 </iframe>
