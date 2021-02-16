@@ -58,6 +58,6 @@ Me puse a trabajar sobre esa información porque considero que la tabla se ve mu
 <iframe
     src='./static/PuntosdePago.html'
     width='100%'
-    height='100%'
+    height='1000px'
     style='border:none;'>
 </iframe>
