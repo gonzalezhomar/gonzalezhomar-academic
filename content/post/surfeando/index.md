@@ -54,6 +54,7 @@ Es un navegador que se promociona como el navegador de los gamers. Me gustó su 
 
 Este navegador es el que actualmente me encuentro utilizando, y tiene una función muy simple, que me pareció muy divertida: al teclear, se activa un sonido de mecanografía. Dado que utilizó mucho mi correo electrónico, este sonido me genera un microincentivo para continuar escribiendo e inclusive, intentar aumentar mi velocidad de tecleo. Además, también trabajo en Jupyter a través de este navegador y dicho sonido me motiva a seguir escribiendo. De hecho, esta misma página la estoy escribiendo a través de Jupyter en Opera GX.
 
+{{< figure library="true" src="operagx.png" title="Navegador Opera GX." >}}
 
 ### [Brave](https://brave.com/es/ )
 
@@ -63,6 +64,7 @@ Sin embargo, la función que más me llamó la atención de este navegador es qu
 
 Aún estoy probando este navegador, por lo que no puedo dar una reseña más amplia, pero a primera vista se ve ampliamente recomendable.
 
+{{< figure library="true" src="brave.png" title="Navegador Brave." >}}
 
 ## Extensiones
 
