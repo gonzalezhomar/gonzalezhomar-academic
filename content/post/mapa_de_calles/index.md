@@ -4,9 +4,13 @@
 title: "Calles"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
-categories: []
+authors:
+- admin
+tags: 
+- Python
+- Maps
+categories:
+- Blog
 date: 2021-01-29T19:06:13-06:00
 lastmod: 2021-01-29T19:06:13-06:00
 featured: false
