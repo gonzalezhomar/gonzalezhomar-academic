@@ -12,8 +12,8 @@ tags:
 - Programación
 categories:
 - Blog
-date: 2021-04-05T15:02:41-06:00
-lastmod: 2021-04-05T15:02:41-06:00
+date: 2021-04-05T09:02:41-06:00
+lastmod: 2021-04-05T09:02:41-06:00
 featured: false
 draft: false
 
