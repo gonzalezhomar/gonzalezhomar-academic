@@ -13,8 +13,8 @@ tags:
 - Gretl
 categories: 
 - Proyectos
-date: 2021-04-09T13:59:07-06:00
-lastmod: 2021-04-09T13:59:07-06:00
+date: 2021-03-09T00:00:07-06:00
+lastmod: 2021-03-09T00:00:07-06:00
 featured: false
 draft: false
 
@@ -22,7 +22,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
-  caption: ""
+  caption: "[Unsplash](https://unsplash.com/photos/OshG1lLSNa4)"
   focal_point: ""
   preview_only: false
 
@@ -64,7 +64,9 @@ No daré un curso completo de series de tiempo (aún), por lo que sólo replicar
 
 Al graficar las series, se observa que parecen tener un componente de tendencia:
 
+
 ![Grafica 1](p1_series.png)
+
 
 Si las series en efecto, tienen un componente de tendendencia el análisis que se haga sobre ellas no será valido. Para verificar la tendencia, se puede aplicar la prueba de contraste aumentado de Dickey Fuller (ADF-GLS), con lo que se concluye que todas las series, con excepción del IEPS federal a las gasolinas y diésel tienen raíz unitaria, pero esta se elimina al tomar las series en primera diferencia (* denota un valor p menor al 0.10, ** denota un valor p menor al 0.05 y *** denota un valor p menor al 0.01):
 
