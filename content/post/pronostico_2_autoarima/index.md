@@ -14,8 +14,8 @@ tags:
 - Jupyter
 categories: 
 - Proyectos
-date: 2021-04-12T13:59:25-06:00
-lastmod: 2021-04-12T13:59:25-06:00
+date: 2021-03-12T00:59:25-06:00
+lastmod: 2021-03-12T00:59:25-06:00
 featured: false
 draft: false
 
@@ -23,7 +23,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "[Unsplash](https://unsplash.com/photos/u8isJQ6QjF4)"
   focal_point: ""
   preview_only: false
 
@@ -42,7 +42,7 @@ projects: [pronosticos]
 
 En la [parte 1](https://gonzalezhomar.netlify.app/post/pronostico_1_manual/) presente el problema de hacer pronósticos para los principales impuestos de México, abordando el tema desde una metodología "a la vieja escuela". En esta parte 2 se tratará el mismo problema utilizando Python con las librerias statsmodels y *pmdarima*. En la [parte 3](https://gonzalezhomar.netlify.app/post/pronostico_3_prophet/) se hará el mismo ejercicio, utilizando la herramienta Prophet desarrollada por Facebook.
 
-Daré por sentado la construcción de la base de datos y buena parte del análisis estadístico que ya realicé en la parte 1, por lo que me citaré a mi mismo cuando así lo consideré... yo mismo... jeje. Buena parte del código que utilizó en esta parte está inspirado en [esta publicación de Medium](https://towardsdatascience.com/hands-on-time-series-forecasting-with-python-d4cdcabf8aac), con algunos ajustes que consideré oportunos. La *notebook* con el código completo de esta publicación se puede encontrar en mi repositorio de [Github](https://github.com/gonzalezhomar/articulos_pronosticos) o la pueden ver directamente [aquí]( ).
+Daré por sentado la construcción de la base de datos y buena parte del análisis estadístico que ya realicé en la parte 1, por lo que me citaré a mi mismo cuando así lo consideré... yo mismo... jeje. Buena parte del código que utilizó en esta parte está inspirado en [esta publicación de Medium](https://towardsdatascience.com/hands-on-time-series-forecasting-with-python-d4cdcabf8aac), con algunos ajustes que consideré oportunos. La *notebook* con el código completo de esta publicación se puede encontrar en mi repositorio de [Github](https://github.com/gonzalezhomar/articulos_pronosticos) o la pueden ver directamente [aquí](https://nbviewer.jupyter.org/github/gonzalezhomar/articulos_pronosticos/blob/main/Pronostico_2.ipynb).
 
 ## 2. ¿Nueva Escuela?
 
@@ -52,7 +52,7 @@ Sin embargo, y como señalé en [otra publicación](https://gonzalezhomar.netlif
 
 De esta manera, si organizó bien mis datos y el código necesario para analizarlos, puedo actualizar fácilmente el análisis al actualizar los datos y puedo ver los resultados en una misma pantalla. De esta manera, escribo las instrucciones 1 vez y me sirven para repetir el mismo análisis toda la vida. Espero que pronto se puedan integrar Jupyter y Gretl, como ya se puede integrar [Jupyter y STATA](https://kylebarron.dev/stata_kernel/getting_started/), otro de mis softwares favoritos de economista. Cuando pueda hacerlo, voy a automatizar gran parte del análisis económetrico combinando ambas herramientas... en otras palabras, haré algo más grande y poderoso (inserte risa de villano aquí).
 
-Una de las grandes ventajas de usar Jupyter para escribir esta *notebook*/blog, es que como todo lo hice en una misma *notebook*, puedo incluir todas las gráficas que hice y todo el análisis sin mayor problema. Sin embargo, si lo hago esta publicación quedaría muy larga, por lo que solo repetiré el análisis para el IEPS Cervezas, para el IVA y para el ISR. Para ver el análisis completo, les sugiero ver mi [*notebook*]( ).
+Una de las grandes ventajas de usar Jupyter para escribir esta *notebook*/blog, es que como todo lo hice en una misma *notebook*, puedo incluir todas las gráficas que hice y todo el análisis sin mayor problema. Sin embargo, si lo hago esta publicación quedaría muy larga, por lo que solo repetiré el análisis para el IEPS Cervezas, para el IVA y para el ISR. Para ver el análisis completo, les sugiero ver mi [*notebook*](https://nbviewer.jupyter.org/github/gonzalezhomar/articulos_pronosticos/blob/main/Pronostico_2.ipynb).
 
 ## 3. Análisis de las Series Mensuales
 
