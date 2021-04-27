@@ -14,7 +14,7 @@ tags:
 - Jupyter
 categories: 
 - Econometría
-date: 2021-03-08T16:59:03-06:00
+date: 2021-04-06T16:59:03-06:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
