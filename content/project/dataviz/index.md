@@ -8,6 +8,7 @@ authors:
 - admin
 tags: 
 - Finanzas Públicas
+- Dataviz
 - Economía
 - Python
 - Jupyter
@@ -51,7 +52,7 @@ slides: ""
 
 > Much that once was is lost, for none now live who remember it. It began with the forging of the Great Rings. Three were given to the Elves, immortal, wisest and fairest of all beings. Seven to the Dwarf-Lords, great miners and craftsmen of the mountain halls. And nine, nine rings were gifted to the race of Men, who above all else desire power. For within these rings was bound the strength and the will to govern each race. But they were all of them deceived, for another ring was made. Deep in the land of Mordor, in the Fires of Mount Doom, the Dark Lord Sauron forged a master ring, and into this ring he poured his cruelty, his malice and his will to dominate all life. **One ring to rule them all.**
 
-Este proyecto tiene su origen en construir un tablero tipo *dashboard* que contenga diferentes gráficas y elementos que sirvan para entender los datos. Busco interactividad, buenas gráficas, mapas y más cosas que no me ofrece Office ni similares. Sin embargo, ante la diversidad de herramientas que existen, la principal dificultad que he tenido ha sido encontrar **un *dashboard* ** que tenga todos los elementos que busco. Un *dashboard* para dominarlos a todos.
+Este proyecto tiene su origen en construir un tablero tipo *dashboard* que contenga diferentes gráficas y elementos que sirvan para entender los datos. Busco interactividad, buenas gráficas, mapas y más cosas que no me ofrece Office ni similares. Sin embargo, ante la diversidad de herramientas que existen, la principal dificultad que he tenido ha sido encontrar un *dashboard* que tenga todos los elementos que busco. Un *dashboard* para dominarlos a todos.
 
 En esa busqueda también he ido coleccionando diferentes gráficas que me han gustado, pero no las he publicado por lo que bajo este proyecto iré guardando tanto los *dashboards* que contruya como las visualizaciones de datos que vaya desarrollando.
 
