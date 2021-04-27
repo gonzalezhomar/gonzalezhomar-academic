@@ -30,8 +30,8 @@ content:
     tag: '*'
   - name: Econometría
     tag: Econometría
-  - name: Dashboard
-    tag: Dashboard
+  - name: Dataviz
+    tag: Dataviz
 #  - name: Ciencia de Datos
 #    tag: Ciencia de Datos
 
