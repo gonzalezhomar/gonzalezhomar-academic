@@ -13,8 +13,8 @@ tags:
 - Gretl
 categories: 
 - Proyectos
-date: 2021-03-09T00:00:07-06:00
-lastmod: 2021-03-09T00:00:07-06:00
+date: 2021-04-07T00:00:07-06:00
+lastmod: 2021-04-07T00:00:07-06:00
 featured: false
 draft: false
 
