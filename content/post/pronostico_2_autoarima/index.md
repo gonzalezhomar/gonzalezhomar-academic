@@ -14,8 +14,8 @@ tags:
 - Jupyter
 categories: 
 - Proyectos
-date: 2021-03-12T00:59:25-06:00
-lastmod: 2021-03-12T00:59:25-06:00
+date: 2021-04-08T00:59:25-06:00
+lastmod: 2021-04-08T00:59:25-06:00
 featured: false
 draft: false
 
