@@ -58,3 +58,7 @@ Con las anteriores herramientas, generé los siguientes mapas:
     height='500px'
     style='border:none;'>
 </iframe>
+
+### Nota
+
+El proceso de Geocode no resultó ser muy preciso: corregí los puntos que no detectó, pero hay algunos puntos mal ubicados.
