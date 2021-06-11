@@ -32,6 +32,8 @@ content:
     tag: Econometría
   - name: Dataviz
     tag: Dataviz
+  - name: Elecciones
+    tag: Elecciones
 #  - name: Ciencia de Datos
 #    tag: Ciencia de Datos
 
