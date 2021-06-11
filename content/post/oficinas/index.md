@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Oficinas Recaudadoras"
-subtitle: "Oficinas Recaudadoras"
-summary: "Otro pequeño mapa"
+title: "Oficinas de Atención al Contribuyente"
+subtitle: "Mapeando... otra vez"
+summary: "Mapeando... otra vez"
 authors: 
 - admin
 tags: 
