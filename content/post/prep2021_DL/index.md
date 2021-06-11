@@ -83,6 +83,6 @@ Se repiten las conclusiones federales:
 - Morena ganó principalmente en secciones rurales, aunque hay muy pocos votos en ellas. 
 - Fueron más significativas las diferencias en zonas urbanas.
 
-Al comparar los resultados en los 2 niveles, se observa que lso votos fueron más o menos consistentes, pero la diferencia que genera sumar diferentes zonas a diferentes distritos, fue la diferencia en los resultados. Sobre más de este tema sugiero leer el tema ["Gerrymandering"](https://es.wikipedia.org/wiki/Gerrymandering).
+Al comparar los resultados en los 2 niveles, se observa que los votos fueron más o menos consistentes, pero la diferencia que genera sumar diferentes zonas a diferentes distritos, fue la diferencia en los resultados. Sobre más de este tema sugiero leer el tema ["Gerrymandering"](https://es.wikipedia.org/wiki/Gerrymandering).
 
 Si bien los resultados aquí analizados todavía son preliminares, son bastante interesantes. Corto abruptamente para continuar con el análisis de la última elección que se llevo a cabo en Guanajuato. Hagan ejercicio.
