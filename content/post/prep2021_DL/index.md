@@ -54,7 +54,7 @@ Considerando que solo hubo 2 partidos ganadores (PAN y Morena), repito los mapas
 
 <iframe
     src='./static/dipfederales_pan.html'
-    width='150%'
+    width='100%'
     height='600px'
     style='border:none;'>
 </iframe>
@@ -63,7 +63,7 @@ Considerando que solo hubo 2 partidos ganadores (PAN y Morena), repito los mapas
 
 <iframe
     src='./static/dipfederales_morena.html'
-    width='150%'
+    width='100%'
     height='600px'
     style='border:none;'>
 </iframe>
@@ -74,7 +74,7 @@ Ahora bien, esos mapas solo dicen donde estuvieron los votos, pero ¿dónde se d
 
 <iframe
     src='./static/dipfederales_difs.html'
-    width='150%'
+    width='100%'
     height='600px'
     style='border:none;'>
 </iframe>
