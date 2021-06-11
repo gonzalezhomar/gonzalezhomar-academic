@@ -53,7 +53,7 @@ Considerando que solo hubo 2 partidos ganadores (PAN y Morena), repito los mapas
 ### PAN
 
 <iframe
-    src='./static/dipfederales_pan.html'
+    src='./static/diplocales_pan.html'
     width='100%'
     height='600px'
     style='border:none;'>
@@ -62,7 +62,7 @@ Considerando que solo hubo 2 partidos ganadores (PAN y Morena), repito los mapas
 ### Morena
 
 <iframe
-    src='./static/dipfederales_morena.html'
+    src='./static/diplocales_morena.html'
     width='100%'
     height='600px'
     style='border:none;'>
@@ -73,7 +73,7 @@ Considerando que solo hubo 2 partidos ganadores (PAN y Morena), repito los mapas
 Ahora bien, esos mapas solo dicen donde estuvieron los votos, pero ¿dónde se decidió la elección? Para ello cree este mapa con las diferencias a favor del PAN en azul (en rojo a favor de Morena), donde se puede observar especificamente en qué zonas ganó (o en donde perdió).  
 
 <iframe
-    src='./static/dipfederales_difs.html'
+    src='./static/diplocales_difs.html'
     width='100%'
     height='600px'
     style='border:none;'>
