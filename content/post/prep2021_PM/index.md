@@ -46,7 +46,7 @@ Por lo anterior, tengo que analizar los votos por separado. Dejo los siguientes 
 
 <iframe
     src='./static/ayuntamientos_pan.html'
-    width='150%'
+    width='100%'
     height='600px'
     style='border:none;'>
 </iframe>
@@ -55,7 +55,7 @@ Por lo anterior, tengo que analizar los votos por separado. Dejo los siguientes 
 
 <iframe
     src='./static/ayuntamientos_morena.html'
-    width='150%'
+    width='100%'
     height='600px'
     style='border:none;'>
 </iframe>
@@ -64,7 +64,7 @@ Por lo anterior, tengo que analizar los votos por separado. Dejo los siguientes 
 
 <iframe
     src='./static/ayuntamientos_priprd.html'
-    width='150%'
+    width='100%'
     height='600px'
     style='border:none;'>
 </iframe>
@@ -73,14 +73,17 @@ Por lo anterior, tengo que analizar los votos por separado. Dejo los siguientes 
 
 <iframe
     src='./static/ayuntamientos_otros.html'
-    width='150%'
+    width='100%'
     height='600px'
     style='border:none;'>
 </iframe>
 
 ## Balance
 
-Con una diversidad de resultados tan amplia resulta complicado llegar a conclusiones sobre estos resultados. Por lo anterior, y derivado de que en las Diputaciones Locales Morena tuvo un crecimiento fuerte en el centro sur del estado, me preguntó ¿qué hubiera pasado si hubieran competido las alianzas? Si hubieran competido las alianzas, la alianza Va x México sí le hubiera podido ganar a Juntos Haremos Historia en Silao y en Yuriria; además de que también le hubiera ganado a Santiago Maravatío al candidato independiente que resultó ganador.
+Con una diversidad de resultados tan amplia resulta complicado llegar a conclusiones sobre estos resultados. Por lo anterior, y derivado de que en las Diputaciones Locales Morena tuvo un crecimiento fuerte en el centro sur del estado, me preguntó ¿qué hubiera pasado si hubieran competido las alianzas? 
+
+- Si hubieran competido las alianzas, la alianza Va x México sí le hubiera podido ganar a Juntos Haremos Historia en Silao y en Yuriria; además de que también le hubiera ganado a Santiago Maravatío al candidato independiente que resultó ganador.
+- Curiosamente, la alianza Juntos Haremos Historia no alcanza a revertir ninguno de los Municipios donde ganó el PAN.
 
 <iframe
     src='./static/ayuntamientos_jhh.html'
