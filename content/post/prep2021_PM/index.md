@@ -87,7 +87,7 @@ Con una diversidad de resultados tan amplia resulta complicado llegar a conclusi
 
 <iframe
     src='./static/ayuntamientos_jhh.html'
-    width='150%'
+    width='100%'
     height='600px'
     style='border:none;'>
 </iframe>
